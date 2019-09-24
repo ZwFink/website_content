@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Publications"
+title = "Posters and Presentations"
 subtitle = ""
 
 [content]
@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1"
+    publication_type = ""
     exclude_featured = true
   
 [design]
