@@ -18,27 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Undergraduate Research Assistant"
+  company = "NAU's Community-Aware Networks & Information Systems (CANIS) Lab"
+  company_url = "https://canis-lab.com"
+  location = "Northern Arizona University"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Conducted research on low-bandwidth, long-ranged network architectures for resource-constrained environments.
+  * Supervisor: Morgan Vigil-Hayes
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Research Assistant"
+  company = "NAU's Gowanlock Lab"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Northern Arizona University"
+  date_start = "2019-01-15"
+  date_end = ""
+  description = """
+  *	Investigating the acceleration of systems utilizing response-based cryptography using the GPU. 
+  * Investigated hybrid algorithms to accelerate memory-bound algorithms on heterogeneous CPU/GPU platforms.
+  * Supervisor: Michael Gowanlock
+  """
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "NAU's Ladnerlab"
+  company_url = "ww7.nau.edu/ladnerlab/"
+  location = "Northern Arizona University"
+  date_start = "2018-03-15"
+  date_end = ""
+  description = """
+  * Designed, implemented algorithms for efficient oligonucleotide probe design and analysis.
+  * Wrote and was awarded two undergraduate research grants. 
+  * Engaged in outreach activities to attract more students to participate in undergraduate research.
+  * Supervisor: Jason Ladner
+  """
 
 +++
