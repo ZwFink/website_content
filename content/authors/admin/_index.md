@@ -20,15 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high-performance computing, networks, bioinformatics, and cybersecurity.
 
-interests:
-- GPGPU Computing
-- Hybrid Algorithms
-- Delay-tolerant networking
-- Scientific Computing
+Interests:
+- High-Performance Computing
+- Distributed Systems
+- Computer Networks
+- Bioinformatics
+
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: BS in Computer Science
     institution: Northern Arizona University
     year: 2020 (Expected)
 
@@ -48,12 +49,12 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/zwfink
+  link: https://github.com/zwfink/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
