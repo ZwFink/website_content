@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Research Assistant"
-  company = "NAU's Ladnerlab"
+  company = "NAU's Ladner lab"
   company_url = "ww7.nau.edu/ladnerlab/"
   location = "Northern Arizona University"
   date_start = "2018-03-15"
