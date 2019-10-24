@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Conducted research on low-bandwidth, long-ranged network architectures for resource-constrained environments.
+  * Designed architecture at the application/transport layers to support delay-tolerant user access to online services.
   * Supervisor: Morgan Vigil-Hayes
   """
 
@@ -39,6 +40,7 @@ date_format = "Jan 2006"
   description = """
   *	Investigating the acceleration of systems utilizing response-based cryptography using the GPU. 
   * Investigated hybrid algorithms to accelerate memory-bound algorithms on heterogeneous CPU/GPU platforms.
+  * Implemented Hybrid CPU/GPU multiway merge and linear scan, achieving up to 2.50x speedup with low load imbalance.
   * Supervisor: Michael Gowanlock
   """
 
@@ -50,8 +52,8 @@ date_format = "Jan 2006"
   date_start = "2018-03-15"
   date_end = ""
   description = """
-  * Designed, implemented algorithms for efficient oligonucleotide probe design and analysis.
-  * Wrote and was awarded two undergraduate research grants. 
+  * Designed and implemented algorithms for efficient analyses to comprehensively determine an individual's viral exposure history. This algorithm achieves similar levels of coverage of the human virome with 37-54% fewer probes than other algorithms.
+  * Proposed and received funding for the PepSIRF software package implementing these algorithms.
   * Engaged in outreach activities to attract more students to participate in undergraduate research.
   * Supervisor: Jason Ladner
   """

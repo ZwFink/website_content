@@ -5,13 +5,13 @@ title = "Accelerating Memory-Bound Database Primitives on Heterogeneous CPU/GPU 
 subtitle = ""
 summary = ""
 authors = [ "Gowanlock, M.", "**Fink, Z.**", "Karsin, B.",  "Wright, J." ]
-publication_types = ["2"]
-publication = ""
+publication_types = ["1"]
+publication = "Submitted to Information Systems"
 tags = []
 categories = []
 date = 2019-09-23T22:24:50-07:00
 lastmod = 2019-09-23T22:24:50-07:00
-featured = true
+featured = false
 draft = false
 
 # Featured image
