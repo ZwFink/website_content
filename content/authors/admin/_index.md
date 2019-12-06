@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include high-performance computing, networks, bioinformatics, and cybersecurity.
 
 Interests:
-- High-Performance Computing
+- High-Performance and Parallel Computing
 - Distributed Systems
 - Computer Networks
 - Bioinformatics
