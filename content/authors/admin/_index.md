@@ -23,6 +23,7 @@ bio: My research interests include high-performance computing, networks, bioinfo
 Interests:
 - High-Performance and Parallel Computing
 - Distributed Systems
+- Security
 - Computer Networks
 - Bioinformatics
 
